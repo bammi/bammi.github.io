@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title:  Well-Grounded # the main title
 
-tagline: Threads,Tangents & Rabbit Holes # it will display as the subtitle
+tagline: Threads, Tangents & Rabbit Holes # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Reflections, notes, and the occasional deep dive into whatever sparks my curiosity—mostly Technology, Computer Science, Electronics, and Ham Radio, with some musings on life and philosophy along the way.
