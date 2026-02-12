@@ -6,47 +6,47 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: en-US
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title:  Well-Grounded # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Threads,Tangents & Rabbit Holes # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Reflections, notes, and the occasional deep dive into whatever sparks my curiosity—mostly Technology, Computer Science, Electronics, and Ham Radio, with some musings on life and philosophy along the way.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://bammi.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: bammi # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: bammmi # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Jwahar Bammi
+  email: jbammi@mac.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://x.com/bammi # change to your Twitter homepage
+    - https://github.com/bammi # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/jwaharbammi
     # - https://www.linkedin.com/in/username
-
+    - https://www.linkedin.com/in/jwaharbammi/
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: Xo550Dp_YeFZCmW07rPJ_R2GXQNMbgE_VmJ7SSirs30 # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -59,9 +59,9 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-C3BXRC30V8 # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: bammiblog # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
